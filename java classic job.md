@@ -15,3 +15,11 @@ We check if any plugin wants update or not if required we have to update and res
 <img width="897" height="298" alt="image" src="https://github.com/user-attachments/assets/d22e095b-6aeb-4bcc-b11f-ffb66ecc3de0" />
 
 <img width="1881" height="816" alt="image" src="https://github.com/user-attachments/assets/cead2d0e-35d9-4926-ac9e-51af0d4584f6" />
+
+First plugin which we need to install in maven.
+step 2- in the avibilbe pulgin search maven intgration and download.
+<img width="1867" height="861" alt="image" src="https://github.com/user-attachments/assets/7695ea7b-8b2d-4cf3-abb0-c05112bf18f4" />
+<img width="1867" height="861" alt="image" src="https://github.com/user-attachments/assets/57342528-bd8f-463b-a2b3-42aee5041c1e" />
+<img width="1867" height="812" alt="image" src="https://github.com/user-attachments/assets/426cf347-5261-4337-be0b-3efbfc10729e" />
+
+
