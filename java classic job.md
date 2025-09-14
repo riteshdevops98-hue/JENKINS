@@ -37,6 +37,20 @@ Now we use this to any java job so that maven can we used we will create a new c
 <img width="1918" height="860" alt="image" src="https://github.com/user-attachments/assets/a1bd4ef2-bfe4-4853-83f6-694641a17f9f" />
 <img width="1866" height="846" alt="image" src="https://github.com/user-attachments/assets/cf80eae9-390e-4131-a478-c2c02e934404" />
 
+we can use this ulr from git which have an java project https://github.com/rj3740/simple-java-maven-app.git.
+sincve its a public repo no credinactnal are required.
+<img width="1346" height="696" alt="image" src="https://github.com/user-attachments/assets/9f166b1e-5c85-4d3d-a1c4-2dab6a0c6605" />
+
+Now in the bottom of the page in build we can add maven so the is can run java code 
+<img width="1878" height="861" alt="image" src="https://github.com/user-attachments/assets/be9d88e4-fd23-4c38-99c0-d4aca17c728d" />
+
+In the goal we have to put the target for exmaple weather we need to complie test etc then apply and save.
+
+<img width="1886" height="883" alt="image" src="https://github.com/user-attachments/assets/4d3c2f88-8111-4cba-8457-7819dc99acf5" />
+
+
+
+
 
 
 
