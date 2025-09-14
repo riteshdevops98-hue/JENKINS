@@ -30,3 +30,5 @@ On the job page, click Build Now.
 
 Open Console Output to verify that Hello World is printed.
 <img width="1911" height="846" alt="image" src="https://github.com/user-attachments/assets/744deb07-4d8c-4430-a7e6-597284274604" />
+<img width="1882" height="527" alt="image" src="https://github.com/user-attachments/assets/8e2d8364-1dcc-44cf-ba61-6438f53929f2" />
+
