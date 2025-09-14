@@ -30,7 +30,14 @@ now in add maven need need to configure our downloaded maven to use it.
 <img width="1883" height="880" alt="image" src="https://github.com/user-attachments/assets/16313269-306d-4b65-8b3e-39c2a6e1db02" />
 
 now apply and save it.
-<img width="1671" height="742" alt="image" src="https://github.com/user-attachments/assets/f1cfbc5c-3c1b-4728-8442-8f6ffebdc519" />
+<img width="1671" height="742" alt="image" src="https://github.com/user-attachments/assets/f1cfbc5c-3c1b-4728-8442-8f6ffebdc519"/>
+
+Now we use this to any java job so that maven can we used we will create a new classic job and we will get thye code from git and will use this confgure maven to run this.
+
+<img width="1918" height="860" alt="image" src="https://github.com/user-attachments/assets/a1bd4ef2-bfe4-4853-83f6-694641a17f9f" />
+<img width="1866" height="846" alt="image" src="https://github.com/user-attachments/assets/cf80eae9-390e-4131-a478-c2c02e934404" />
+
+
 
 
 
