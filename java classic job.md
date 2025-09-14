@@ -23,4 +23,16 @@ step 2- in the avibilbe pulgin search maven intgration and download.
 <img width="1867" height="861" alt="image" src="https://github.com/user-attachments/assets/57342528-bd8f-463b-a2b3-42aee5041c1e" />
 <img width="1867" height="812" alt="image" src="https://github.com/user-attachments/assets/426cf347-5261-4337-be0b-3efbfc10729e" />
 
+Now after the installations we need to configure the tool as well to use it.
+<img width="1857" height="852" alt="image" src="https://github.com/user-attachments/assets/890f9783-7b56-4b48-afa9-bda9d8754aba" />
+
+now in add maven need need to configure our downloaded maven to use it.
+<img width="1883" height="880" alt="image" src="https://github.com/user-attachments/assets/16313269-306d-4b65-8b3e-39c2a6e1db02" />
+
+now apply and save it.
+<img width="1671" height="742" alt="image" src="https://github.com/user-attachments/assets/f1cfbc5c-3c1b-4728-8442-8f6ffebdc519" />
+
+
+
+
 
